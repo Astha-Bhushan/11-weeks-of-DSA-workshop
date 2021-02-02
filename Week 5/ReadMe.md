@@ -1,7 +1,7 @@
 Question sequence
 1. Reverse a string using Stack                
 2. Duplicate Brackets           (pepcoding)      
-3. Balanced Brackets            (pepcoding)       
+3. Balanced Brackets / Parenthesis checker          
 4. Next Greater Element                          
 5. Stock Span                                   
 6. Max Area in histogram                          
